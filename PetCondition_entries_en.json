@@ -1,0 +1,131 @@
+[
+  {
+    "value": "whining",
+    "synonyms": [
+      "whining",
+      "complaining"
+    ]
+  },
+  {
+    "value": "peeing",
+    "synonyms": [
+      "peeing",
+      "not using litterbox",
+      "having accidents",
+      "peeing on everything"
+    ]
+  },
+  {
+    "value": "depressed",
+    "synonyms": [
+      "depressed",
+      "sad",
+      "down"
+    ]
+  },
+  {
+    "value": "drooling",
+    "synonyms": [
+      "drooling"
+    ]
+  },
+  {
+    "value": "pooping blood",
+    "synonyms": [
+      "pooping blood"
+    ]
+  },
+  {
+    "value": "shaking",
+    "synonyms": [
+      "shaking",
+      "quivering"
+    ]
+  },
+  {
+    "value": "coughing",
+    "synonyms": [
+      "coughing"
+    ]
+  },
+  {
+    "value": "limping",
+    "synonyms": [
+      "limping",
+      "walking weird",
+      "walking funny"
+    ]
+  },
+  {
+    "value": "constipated",
+    "synonyms": [
+      "constipated",
+      "can\u0027t poop",
+      "having a hard time pooping",
+      "having a hard time going the bathroom",
+      "having a hard time going potty",
+      "won\u0027t poop",
+      "hasn\u0027t pooped"
+    ]
+  },
+  {
+    "value": "throwing up",
+    "synonyms": [
+      "throwing up",
+      "vomitting",
+      "hurling",
+      "spitting up"
+    ]
+  },
+  {
+    "value": "sneezing",
+    "synonyms": [
+      "sneezing"
+    ]
+  },
+  {
+    "value": "diarrhea",
+    "synonyms": [
+      "diarrhea",
+      "upset stomach"
+    ]
+  },
+  {
+    "value": "being noisy",
+    "synonyms": [
+      "being noisy",
+      "barking",
+      "meowing"
+    ]
+  },
+  {
+    "value": "won\u0027t eat",
+    "synonyms": [
+      "won\u0027t eat",
+      "isn\u0027t eating"
+    ]
+  },
+  {
+    "value": "bleeding",
+    "synonyms": [
+      "bleeding"
+    ]
+  },
+  {
+    "value": "hurt",
+    "synonyms": [
+      "hurt",
+      "was bit",
+      "bit by another dog",
+      "bit by another cat"
+    ]
+  },
+  {
+    "value": "needs shots",
+    "synonyms": [
+      "needs shots",
+      "needs vaccinations",
+      "needs to have shot records updated"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "5183eca5-9000-4532-9844-05bcb097f27b",
+  "name": "PetCondition",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,49 @@
+[
+  {
+    "value": "dog",
+    "synonyms": [
+      "dog",
+      "canine",
+      "doggy",
+      "pup",
+      "puppy"
+    ]
+  },
+  {
+    "value": "cat",
+    "synonyms": [
+      "cat",
+      "kitty",
+      "kitten",
+      "kitty cat"
+    ]
+  },
+  {
+    "value": "bird",
+    "synonyms": [
+      "bird",
+      "chicken"
+    ]
+  },
+  {
+    "value": "snake",
+    "synonyms": [
+      "snake",
+      "boa",
+      "python",
+      "ball python"
+    ]
+  },
+  {
+    "value": "fish",
+    "synonyms": [
+      "fish"
+    ]
+  },
+  {
+    "value": "lizard",
+    "synonyms": [
+      "lizard"
+    ]
+  }
+]

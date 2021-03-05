@@ -1,0 +1,106 @@
+[
+  {
+    "id": "e6dc09bf-fd78-46c0-853f-754de2178b82",
+    "data": [
+      {
+        "text": "will do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddf19017-833f-45d6-bfd5-811763c46de9",
+    "data": [
+      {
+        "text": "sounds good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12755d5b-f4d3-496e-a79a-f2fef821d4a2",
+    "data": [
+      {
+        "text": "alright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31475ade-ba5c-4490-a36f-201aebc21751",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0e1717b-a4f6-4032-9dd0-14609f7357d4",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f94574b3-a931-4126-9dc6-7e806d41c3d1",
+    "data": [
+      {
+        "text": "That\u0027s all for now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ddc351f-fa72-4eff-afd7-9f20f83a3d4a",
+    "data": [
+      {
+        "text": "Thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeda372d-4c14-459a-8114-7bbb23126c53",
+    "data": [
+      {
+        "text": "bye!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

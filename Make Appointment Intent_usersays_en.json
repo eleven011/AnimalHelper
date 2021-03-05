@@ -1,0 +1,283 @@
+[
+  {
+    "id": "4f4b3b23-1280-4a0e-96f5-1f88df90113e",
+    "data": [
+      {
+        "text": "make an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@DayOfWeek",
+        "alias": "AppointmentDay",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "2pm",
+        "meta": "@sys.time",
+        "alias": "AppointmentTime",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21bf3832-1063-4425-973c-42fa43b41b73",
+    "data": [
+      {
+        "text": "I want to make a vet appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "next Wednesday",
+        "meta": "@DayOfWeek",
+        "alias": "AppointmentDay",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a5fea18-22c0-4750-9b12-6f7f11ce7cfa",
+    "data": [
+      {
+        "text": "yeah, I\u0027d like to make an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8157d351-484e-4ac3-b217-0bc7eebfeaab",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "pettype",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "needs to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "go",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to the vet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d280e2ba-1730-4f25-ae67-c7220d8457b5",
+    "data": [
+      {
+        "text": "set an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8da6fd96-5152-4a75-a764-bc4fe8ae3f01",
+    "data": [
+      {
+        "text": "set a vet appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bbb6755-25fe-47ab-8b08-63bfabb9602d",
+    "data": [
+      {
+        "text": "make a vet appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41fef292-e461-40bf-b0c8-a64d8c351fe8",
+    "data": [
+      {
+        "text": "make an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5825dd5-c167-4f82-8aba-5a29b5c66da0",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "pettype",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "needs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a vet appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "409561b5-61f0-41f8-a7a5-13664ce67759",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "pettype",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "needs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adc39a50-f47a-4007-b118-d0bee7b5a138",
+    "data": [
+      {
+        "text": "need to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " make an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e0c6bd0-2999-4866-8332-b93e7ccec0db",
+    "data": [
+      {
+        "text": "I want to make a vet appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53dc8f6f-ab5e-45f5-83e2-0498a5cebb48",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "pettype",
+        "userDefined": false
+      },
+      {
+        "text": " should probably ",
+        "userDefined": false
+      },
+      {
+        "text": "go",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to the vet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

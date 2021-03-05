@@ -1,0 +1,75 @@
+{
+  "id": "c6df4061-621f-45ed-a016-e6d1d2995ba1",
+  "name": "Get Animal Advice Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb69512b-e10f-455e-a53d-54ad5b48ffaa",
+          "name": "PetType",
+          "required": true,
+          "dataType": "@PetType",
+          "value": "$PetType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of animal is your pet?"
+            },
+            {
+              "lang": "en",
+              "value": "What type of pet do you own?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4a583e65-663b-4032-bf9d-31c18e6f649e",
+          "name": "PetCondition",
+          "required": true,
+          "dataType": "@PetCondition",
+          "value": "$PetCondition",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me more about what\u0027s going on with your $PetType."
+            },
+            {
+              "lang": "en",
+              "value": "Please describe your  $PetType\u0027s symptoms."
+            },
+            {
+              "lang": "en",
+              "value": "Tell me what\u0027s wrong with your  $PetType."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

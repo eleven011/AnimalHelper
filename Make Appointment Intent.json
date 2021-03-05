@@ -1,0 +1,100 @@
+{
+  "id": "156dea02-142e-40b0-a41c-18eaf4144fff",
+  "name": "Make Appointment Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0bdab5ea-43a8-4116-8a7a-715f84bd19bc",
+          "name": "pettype",
+          "required": false,
+          "dataType": "@PetType",
+          "value": "$pettype",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ef0f0536-2728-473e-8173-d168cdb4be03",
+          "name": "AppointmentDay",
+          "required": true,
+          "dataType": "@DayOfWeek",
+          "value": "$AppointmentDay",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What day works best?"
+            },
+            {
+              "lang": "en",
+              "value": "When should I schedule the appointment for?"
+            },
+            {
+              "lang": "en",
+              "value": "Which day of the week is easiest for you?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "96508c09-b3b1-48b9-bed3-2add90d47656",
+          "name": "AppointmentTime",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$AppointmentTime",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time should the appointment be?"
+            },
+            {
+              "lang": "en",
+              "value": "What time works best?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay, your appointment is set for $AppointmentDay.original at $AppointmentTime"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

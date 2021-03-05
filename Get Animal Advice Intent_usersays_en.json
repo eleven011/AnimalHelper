@@ -1,0 +1,227 @@
+[
+  {
+    "id": "4cb9fb5c-a370-407c-824e-05456440fd7c",
+    "data": [
+      {
+        "text": "my pet ",
+        "userDefined": false
+      },
+      {
+        "text": "has",
+        "meta": "@PetCondition",
+        "alias": "PetCondition",
+        "userDefined": false
+      },
+      {
+        "text": " been ",
+        "userDefined": false
+      },
+      {
+        "text": "acting",
+        "meta": "@PetCondition",
+        "alias": "PetCondition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "strange",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97f3d1f7-6701-4fca-85a6-a307c1bf68a9",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "PetType",
+        "userDefined": false
+      },
+      {
+        "text": " has been ",
+        "userDefined": false
+      },
+      {
+        "text": "acting",
+        "meta": "@PetCondition",
+        "alias": "PetCondition",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "strange",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d58932f4-8d43-46f8-a9fe-f2d39ebc95ad",
+    "data": [
+      {
+        "text": "my pet ",
+        "userDefined": false
+      },
+      {
+        "text": "has",
+        "meta": "@PetCondition",
+        "alias": "PetCondition",
+        "userDefined": false
+      },
+      {
+        "text": " been acting ",
+        "userDefined": false
+      },
+      {
+        "text": "weird",
+        "meta": "@PetCondition",
+        "alias": "PetCondition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42a6d9df-940e-4848-a0ee-c0f9dabb8a68",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "PetType",
+        "userDefined": false
+      },
+      {
+        "text": " has been acting ",
+        "userDefined": false
+      },
+      {
+        "text": "weird",
+        "meta": "@PetCondition",
+        "alias": "PetCondition",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cd3ce5a-316f-4d78-94c5-15e75c8dfe8d",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "PetType",
+        "userDefined": false
+      },
+      {
+        "text": " has been ",
+        "userDefined": false
+      },
+      {
+        "text": "throwing up",
+        "meta": "@PetCondition",
+        "alias": "PetCondition",
+        "userDefined": true
+      },
+      {
+        "text": " a lot lately",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e49a449-195b-41d0-b7d9-f223ec0291a0",
+    "data": [
+      {
+        "text": "I\u0027m worried about my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "PetType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f62b913-69b8-4e53-bb06-9fd69f96714b",
+    "data": [
+      {
+        "text": "Can you give me advice on my pet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47ac19d7-6479-4d2b-b168-be45ebfb1706",
+    "data": [
+      {
+        "text": "There\u0027s something wrong with my pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f6e42e1-38e6-4cd1-ab43-2e622fe32572",
+    "data": [
+      {
+        "text": "I\u0027m worried about my pet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

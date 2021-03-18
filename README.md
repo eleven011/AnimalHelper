@@ -10,3 +10,5 @@ Part of my inspiration for creating this app is that I own a Ball Python. Care f
 My dream for this application (maybe I'll turn this into a mobile app now that I think about it 😹) would be for a user to, for the Ball Python example, tell the app the temperatures, humidity, and other variables of their husbandry, and then AnimalHelper would make detailed recommendations.
 
 You can play with a simple test version here: https://bot.dialogflow.com/8c5b889e-7349-49e0-920a-8e5fffca6f3f
+
+Try asking for help with a cockatiel who has swollen feet if you'd like a place to start!

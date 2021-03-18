@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "eb69512b-e10f-455e-a53d-54ad5b48ffaa",
+          "id": "699f22fd-d6bd-4977-b9cc-b8071c47a50d",
           "name": "PetType",
           "required": true,
           "dataType": "@PetType",
@@ -33,7 +33,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "4a583e65-663b-4032-bf9d-31c18e6f649e",
+          "id": "87381a0c-5bcd-4f90-9c7c-63916db89d4f",
           "name": "PetCondition",
           "required": true,
           "dataType": "@PetCondition",

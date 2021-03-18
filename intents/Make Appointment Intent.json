@@ -10,7 +10,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "0bdab5ea-43a8-4116-8a7a-715f84bd19bc",
+          "id": "fd0e9181-1eb0-4ada-a600-2d09b41c9a14",
           "name": "pettype",
           "required": false,
           "dataType": "@PetType",
@@ -24,7 +24,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "ef0f0536-2728-473e-8173-d168cdb4be03",
+          "id": "60c44aa1-f9a4-4717-9a30-75840171a66f",
           "name": "AppointmentDay",
           "required": true,
           "dataType": "@DayOfWeek",
@@ -51,7 +51,7 @@
           "outputDialogContexts": []
         },
         {
-          "id": "96508c09-b3b1-48b9-bed3-2add90d47656",
+          "id": "3f0ff575-1320-4537-a3ce-07190f3efbf1",
           "name": "AppointmentTime",
           "required": true,
           "dataType": "@sys.time",
@@ -81,7 +81,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Okay, your appointment is set for $AppointmentDay.original at $AppointmentTime"
+            "Okay, your appointment is set for $AppointmentDay.original at $AppointmentTime.original"
           ],
           "condition": ""
         }

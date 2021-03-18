@@ -20,7 +20,8 @@
     "synonyms": [
       "depressed",
       "sad",
-      "down"
+      "down",
+      "bored"
     ]
   },
   {
@@ -74,7 +75,8 @@
       "throwing up",
       "vomitting",
       "hurling",
-      "spitting up"
+      "spitting up",
+      "puking"
     ]
   },
   {
@@ -95,14 +97,16 @@
     "synonyms": [
       "being noisy",
       "barking",
-      "meowing"
+      "meowing",
+      "chirping"
     ]
   },
   {
     "value": "won\u0027t eat",
     "synonyms": [
       "won\u0027t eat",
-      "isn\u0027t eating"
+      "isn\u0027t eating",
+      "not eating"
     ]
   },
   {
@@ -126,6 +130,142 @@
       "needs shots",
       "needs vaccinations",
       "needs to have shot records updated"
+    ]
+  },
+  {
+    "value": "acting defensive",
+    "synonyms": [
+      "defensive",
+      "aggressive",
+      "trying to bite",
+      "biting me",
+      "trying to get me"
+    ]
+  },
+  {
+    "value": "burnt",
+    "synonyms": [
+      "burnt",
+      "is burned",
+      "was burned"
+    ]
+  },
+  {
+    "value": "shedding badly",
+    "synonyms": [
+      "shedding badly",
+      "shedding poorly",
+      "not shedding",
+      "shedding in pieces"
+    ]
+  },
+  {
+    "value": "a lump",
+    "synonyms": [
+      "a lump",
+      "lumps",
+      "bulge",
+      "tumor",
+      "bump"
+    ]
+  },
+  {
+    "value": "wheezing",
+    "synonyms": [
+      "wheezing",
+      "whistling",
+      "hissing",
+      "rasping",
+      "gasping"
+    ]
+  },
+  {
+    "value": "very active",
+    "synonyms": [
+      "very active",
+      "super active",
+      "glass surfing",
+      "trying to escape",
+      "moving around a lot"
+    ]
+  },
+  {
+    "value": "changing colors",
+    "synonyms": [
+      "changing colors",
+      "turning black",
+      "turning brown",
+      "color is changing"
+    ]
+  },
+  {
+    "value": "hiding",
+    "synonyms": [
+      "hiding"
+    ]
+  },
+  {
+    "value": "weak",
+    "synonyms": [
+      "weak"
+    ]
+  },
+  {
+    "value": "quiet",
+    "synonyms": [
+      "quiet",
+      "isn\u0027t making any noise"
+    ]
+  },
+  {
+    "value": "overweight",
+    "synonyms": [
+      "overweight",
+      "obese",
+      "fat",
+      "chubby"
+    ]
+  },
+  {
+    "value": "swollen feet",
+    "synonyms": [
+      "swollen feet",
+      "feet are swollen",
+      "feet are swelling"
+    ]
+  },
+  {
+    "value": "acting scared",
+    "synonyms": [
+      "acting scared",
+      "scared"
+    ]
+  },
+  {
+    "value": "thumping",
+    "synonyms": [
+      "thumping",
+      "stomping"
+    ]
+  },
+  {
+    "value": "chewing",
+    "synonyms": [
+      "chewing",
+      "gnawing"
+    ]
+  },
+  {
+    "value": "dehydrated",
+    "synonyms": [
+      "dehydrated"
+    ]
+  },
+  {
+    "value": "losing feathers",
+    "synonyms": [
+      "losing feathers",
+      "feathers are falling out"
     ]
   }
 ]

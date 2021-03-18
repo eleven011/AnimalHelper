@@ -15,14 +15,23 @@
       "cat",
       "kitty",
       "kitten",
-      "kitty cat"
+      "kitty cat",
+      "feline"
     ]
   },
   {
     "value": "bird",
     "synonyms": [
       "bird",
-      "chicken"
+      "cockatiel",
+      "parrot",
+      "budgie",
+      "parakeet",
+      "conure",
+      "coackatoo",
+      "macaw",
+      "canary",
+      "dove"
     ]
   },
   {
@@ -31,19 +40,68 @@
       "snake",
       "boa",
       "python",
-      "ball python"
+      "ball python",
+      "corn snake",
+      "king snake",
+      "hognose",
+      "boa constrictor",
+      "hognose snake",
+      "milk snake",
+      "garter snake",
+      "burmese python",
+      "rosy boa",
+      "reticulated python",
+      "retic",
+      "carpet python",
+      "green tree python",
+      "rainbow boa",
+      "children\u0027s python",
+      "rubber boa",
+      "woma python"
     ]
   },
   {
     "value": "fish",
     "synonyms": [
-      "fish"
+      "fish",
+      "gold fish",
+      "betta",
+      "betta fish",
+      "guppy",
+      "guppie"
     ]
   },
   {
     "value": "lizard",
     "synonyms": [
-      "lizard"
+      "lizard",
+      "gecko",
+      "bearded dragon",
+      "beardie",
+      "skink",
+      "anole",
+      "iguana",
+      "chameleon",
+      "tegu",
+      "uromastyx",
+      "dragon",
+      "monitor"
+    ]
+  },
+  {
+    "value": "rabbit",
+    "synonyms": [
+      "rabbit",
+      "bunny",
+      "bunny rabbit"
+    ]
+  },
+  {
+    "value": "mouse",
+    "synonyms": [
+      "mouse",
+      "mice",
+      "rat"
     ]
   }
 ]

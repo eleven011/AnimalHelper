@@ -1,5 +1,93 @@
 [
   {
+    "id": "691fc479-a9c8-431e-a12b-d3c943ad2a48",
+    "data": [
+      {
+        "text": "When\u0027s the earliest appointment?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00260c41-1bf1-4eba-9612-807ab5291203",
+    "data": [
+      {
+        "text": "When\u0027s the earliest I can see a vet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ebed562-e900-4816-8380-4e52a3d859ae",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "dog",
+        "meta": "@PetType",
+        "alias": "pettype",
+        "userDefined": false
+      },
+      {
+        "text": " needs to see the doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e87864f-e0ba-4e71-8aa2-cd68a496a9d0",
+    "data": [
+      {
+        "text": "my pet needs to see the doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b97004d-b948-4acd-bdf2-bea95005d3bc",
+    "data": [
+      {
+        "text": "Is it possible to see a doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20490ee1-4308-4152-aebf-ddaf4400ff82",
+    "data": [
+      {
+        "text": "I need an animal doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
     "id": "4f4b3b23-1280-4a0e-96f5-1f88df90113e",
     "data": [
       {
@@ -119,6 +207,45 @@
     "data": [
       {
         "text": "set a vet appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da360b85-5a41-492c-a096-bc803ca9780a",
+    "data": [
+      {
+        "text": "I want to see a veterinarian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4aa722eb-318b-4e8e-8958-c9446e97e514",
+    "data": [
+      {
+        "text": "I want to speak to a veterinarian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1659ee84-4b1b-4059-9790-145b5d1b5e1e",
+    "data": [
+      {
+        "text": "I want to see the doctor about this",
         "userDefined": false
       }
     ],
